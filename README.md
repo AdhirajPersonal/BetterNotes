@@ -8,7 +8,7 @@
   <h1>BetterNotes</h1>
 
   <p>
-    <b>The AI-Powered, Local-First Second Brain.</b>
+    <b>notes but better.</b>
   </p>
 
   <p>
