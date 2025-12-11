@@ -21,6 +21,7 @@
   </p>
 
   <p>
+    <!-- These links now target the invisible ID tags added below -->
     <a href="#features">Features</a> •
     <a href="#download">Download</a> •
     <a href="#development">Development</a> •
@@ -42,6 +43,10 @@
 
 It runs 100% locally on your machine. No cloud delays, no subscription fees for basic features, and you own your data (JSON format). It integrates the raw power of **Groq AI (Llama 3 / GPT-OSS 120b)** to perform deep internet research, automate tasks, and refine your writing instantly.
 
+<br />
+
+<!-- ANCHOR FOR FEATURES -->
+<a id="features"></a>
 ## ✨ Key Features
 
 ### 🧠 AI That Actually Does Things
@@ -74,6 +79,8 @@ It runs 100% locally on your machine. No cloud delays, no subscription fees for 
 
 <br />
 
+<!-- ANCHOR FOR DOWNLOAD -->
+<a id="download"></a>
 ## 📥 Download
 
 **Windows:**
@@ -81,6 +88,10 @@ Download the latest `.exe` installer from the [Releases Page](https://github.com
 
 *(Mac & Linux builds coming soon)*
 
+<br />
+
+<!-- ANCHOR FOR DEVELOPMENT -->
+<a id="development"></a>
 ## 🛠️ Development
 
 Built with the **Modern Electron Stack**:
